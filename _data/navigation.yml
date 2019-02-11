@@ -6,3 +6,15 @@
   link: /recipes/
 - name: Contact
   link: /contact/
+  navigation:
+    - name: Contact
+      link: /contact/
+      navigation:
+        - name: Contact
+          link: /contact/
+          navigation:
+            - name: Contact
+              link: /contact/
+              navigation:
+                - name: Contact
+                  link: /contact/
